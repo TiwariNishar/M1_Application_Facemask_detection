@@ -1,1 +1,1 @@
-# M1_Application_Facemask_detection
+# M1_Application_Hospital_Management_System

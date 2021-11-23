@@ -40,6 +40,7 @@ Hospital Management System helps the professionals in healthcare to check out th
 
 ## How
 The system creates an external file to store the data perminantly.This system is deployed using c programming.
+
 # High Level Requirements
 |ID|  Desription|  Status|
 |--|---------|----------|
@@ -47,10 +48,9 @@ The system creates an external file to store the data perminantly.This system is
 |Adminstration|	It includes room informtion,general adminstration|	Implemented|
 |Payment Details|	It includes patient payment details,pay recipts etc|	future|
 
-Low level Requirements
-ID
-Description
-Status
-security	It should secure because only authorized user or receptionist can this system	Implemented
-platform	The system can be work on any operating system like windows or linus	Implemented
-Performanace	The system should handles the large amount patients data	Implemented
+# Low level Requirements
+|ID|  Desription|  Status|
+|---|-----|-------|
+|security|	It should secure because only authorized user or receptionist can this system|	Implemented|
+|platform|The system can be work on any operating system like windows or linus|	Implemented|
+|Performanace|	The system should handles the large amount patients data|	Implemented|

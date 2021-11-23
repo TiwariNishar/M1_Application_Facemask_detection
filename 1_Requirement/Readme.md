@@ -1,56 +1,67 @@
 # Requirements
 # Introduction
-This project is the implementation for “ HOSPITAL MANAGEMENT SYSTEM” is a program developed for managing details regarding number of patients entering to the hospital. The program is very helpful to find the results of the inpatients and outpatients easily. we can search the doctors related to patients in hospital demo. The project and implementation is developed by using c. There’s login system available for this system, the receptionist login into the system and use resources.
+Introduction
+The Pharma store management system is the system used for medicine stock inventory in the medical stores. This system enables the manager of the store to record and manage all activities of the medical shop. Medical Shop Management System application can be applied in medicals where manual procedure exists. The purpose of this project is to reduce time consumption and human effort. This application provides user friendly interface as well. The project is designed for developing the medical store management system whose purpose is to reduce the complexities of record keeping and documentation in the inventory management.
 
-# Research
-About Hospital Management System C Project:
+## Features
+1.Add Medicine
 
----Add new patient record: In this feature, user can add a new patient record ---Search or edit patient record. ---List record of patients. ---Delete patient records' ---Exit from the system
+2.Update Medicine
 
-# Cost and Features and Timeline
-1.Time-saving Technology 2.Improved Efficiency by avoiding human errors 3.Reduces scope for Error 4.Data security and correct data retrieval made possible 5.Cost effective and easily manageable 6.Easy access to patient data with correct patient history 7.Improved patient care made possible 8.Reduces the work of documentation
+3.Delete Medicine
 
-# Defining Our System
-Here in our project(Hospital management system) user can able to login and should enter password then main menu will be display .The login password would be declared default.
-Now user can add new patient record,delete existing patient record, update existing records, view list existing records etc. Finally user can exit from system.
+4.Search Medicine
+
+5.Display Medicine
+## System
+![image](https://user-images.githubusercontent.com/94336423/143090372-1e8c74f4-1597-4202-99b4-12dc89deba79.png)
+
+## Research
+Pharma store management in hospitals is a tedious and time consuming chore with limited resources tasked for the purpose and poor penetration of Information Technology. The process of automation is slow paced due to various inherent factors and is being challenged by the increasing inventory loads and escalating budgets for procurement of drugs. The medical stores are looking for the services that are accurate and reliable for providing services to the customers and workers. Every store is making efforts to computerize their activities for providing better services to the customers. The medical store management system is the system used for medicine stock inventory in the medical stores. This system enables the manager of the store to record and manage all activities of the medical shop.
+## Examples
+![image](https://user-images.githubusercontent.com/94336423/143090543-976b067b-43a8-463a-94e3-3deb38badceb.png)
+
+
 # SWOT ANALYSIS
-## Strengths
-• A primary focus on quality improvement ($ saved from quality projects) • Internal teams dedicated to research and analytics ($ spent on research) • High-quality medical personnel (# of staff with external recognition) • Modern medical equipment and a well-equipped facility (average age of medical equipment)
+![image](https://user-images.githubusercontent.com/94336423/143090284-c1662029-c031-4847-abfa-69d3e79da01b.png)
 
-## Weakness
-• Outdated healthcare facilities and technology • Insufficient management training • Lack of funding and resources to support programs • Poor location that’s not easily accessible for staff and patients • High staff turnover
-
-## Opportunities:
-• Collaborate with different healthcare organizations to knowledge share • Develop healthcare programs and initiatives to drive more community outreach and engagement • Increase funding for analytics and researching, including both staff and technology • Create mentor programs
-
-## Threats:
-• Economic or political insecurity • Policy and legislation changes that result in budget deficits • Pressure to reduce costs while meeting expectations of universal healthcare coverage • Increased competition from newly built hospitals
-
+# 4W's and 1'H
 ## Who
-The implementation of hospital management system project provides the institution with different advantages that improve the service quality and efficiency. As mentioned above it is created a user can handle: patients details, recordsf and management, and third-parties like drug suppliers and insurance companies.
+Pharma / Medicals / Clinic
 
 ## What
-The hospital management system helps register complete patient information. It captures and stores the medical history, treatment required, details of their previous visits, upcoming appointments if any, reports, insurance details and more. It helps eliminate the need to get these details on every visit.
+This system enables the manager of the store to record and manage all activities of the Phrama store. It is used to reduce the complexities of record keeping and documentation in the inventory management.
 
 ## When
-HMS information system helps to track and control finances, reduce leakages as well as reduce manual work and therefore there is no requirement of the higher human workforce.
+Phrama Store Management System application can be applied in medicals where manual procedure exists.
 
 ## Where
-Hospital Management System helps the professionals in healthcare to check out the clinical documents, diagnosis, patient records, and other relevant things at a single view and therefore results in the healthcare professionals to make decisions at the right time
+The project is designed for developing the pharma store management system.
 
 ## How
-The system creates an external file to store the data perminantly.This system is deployed using c programming.
+This project can perform operations you can add, modify and delete and search records and displaying of medicines.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # High Level Requirements
 |ID|  Desription|  Status|
 |--|---------|----------|
-|Patient Activities|	-It includes patient records,patient information|	Implemented|
-|Adminstration|	It includes room informtion,general adminstration|	Implemented|
-|Payment Details|	It includes patient payment details,pay recipts etc|	future|
-
+|HLR-1|User shall be able to add and modify the medicine data|	Implemented|
+|HLR-2|	System output must display data without any error|	Implemented|
+|HLR-3|	User shall be able to delete search and display the medicine data|	Implemented|
+|HLR-4|	User shall be able to purchasing the available medicine|	Future|
 # Low level Requirements
 |ID|  Desription|  Status|
 |---|-----|-------|
-|security|	It should secure because only authorized user or receptionist can this system|	Implemented|
-|platform|The system can be work on any operating system like windows or linus|	Implemented|
-|Performanace|	The system should handles the large amount patients data|	Implemented|
+|LLR-1|	User shall be able to get the output data|	Implemented|

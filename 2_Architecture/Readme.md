@@ -1,17 +1,25 @@
 # Design
 ## High level Design
-*Class Diagram (Structural)
-![image](https://user-images.githubusercontent.com/94336423/143027464-67553869-cc8d-48dd-bfa4-5a7b37ba2855.png)
+          Class Diagram (Structural)
 
-Activity Diagram(Behavioural Diagram)
-![image](https://user-images.githubusercontent.com/94336423/143027037-6f3f8218-483d-46b7-8b3e-6cab665dd5fd.png)
+![image](https://user-images.githubusercontent.com/94336423/143091596-1e9d6c4a-1d56-444a-8be9-945f4a497a27.png)
+
+
+         Activity Diagram(Behavioural Diagram)
+         
+![image](https://user-images.githubusercontent.com/94336423/143091565-c099548a-29a8-4b68-a5d4-8fc742954ac4.png)
+
 ## Low level Design
-Deployment(Structural)
-![image](https://user-images.githubusercontent.com/94336423/143027196-1fdfbcfb-c094-4d7e-a584-e040a57f9e56.png)
+           Deployment(Structural)
+           
+           
+![image](https://user-images.githubusercontent.com/94336423/143091631-7cf06ded-9aed-41b4-a431-6a33669513e5.png)
 
-Use case (Behavioural diagram)
+
+          Use case (Behavioural diagram)
 
 
-![image](https://user-images.githubusercontent.com/94336423/143027850-e6d29db0-2692-40ab-af38-f155e13534e2.png)
+![image](https://user-images.githubusercontent.com/94336423/143091684-6eae0164-dec2-4702-990d-89a096db07d7.png)
+
 
 

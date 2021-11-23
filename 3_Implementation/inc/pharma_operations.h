@@ -1,6 +1,6 @@
 /**
  * @file pharma_operations.h
- * @author Karthik S (you@domain.com)
+ * @author Nishar Tiwari(you@domain.com)
  * @brief 
  * @version 0.1
  * @date 2021-09-06

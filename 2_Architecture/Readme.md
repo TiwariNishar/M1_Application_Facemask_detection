@@ -8,7 +8,10 @@ Activity Diagram(Behavioural Diagram)
 ## Low level Design
 Deployment(Structural)
 ![image](https://user-images.githubusercontent.com/94336423/143027196-1fdfbcfb-c094-4d7e-a584-e040a57f9e56.png)
-              Use case (Behavioral Diagram)
- ![image](https://user-images.githubusercontent.com/94336423/143027850-e6d29db0-2692-40ab-af38-f155e13534e2.png)
+
+Use case (Structural diagram)
+
+
+![image](https://user-images.githubusercontent.com/94336423/143027850-e6d29db0-2692-40ab-af38-f155e13534e2.png)
 
 

@@ -5,10 +5,15 @@ Pharma Store Management System
 This is the Mini Project of Pharma Store Management System is a console application. In this project, you can add, modify, delete, search records and displaying of medicines.
 
 
+# Code Quality - Static Code - Cppcheck
+[![Code Quality - Static Code - Cppcheck](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/cppcheck.yml)
+
+# Contribution Check - Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/gitinspector.yml)
 
 
-
-
+# CI-Main
+[![CI](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/main.yml/badge.svg)](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/main.yml)
 
 
 

@@ -23,7 +23,10 @@ This is the Mini Project of Pharma Store Management System is a console applicat
 
 # Code Grade
 [![Code Grade](https://api.codiga.io/project/29921/status/svg)
+# LINUX TESTING
+([![Linux C/C++ CI](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/Linux_c-cpp.yml/badge.svg)](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/Linux_c-cpp.yml))
 
+# Windows Testing
 
 
 ## Folder structure:

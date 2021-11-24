@@ -15,6 +15,15 @@ This is the Mini Project of Pharma Store Management System is a console applicat
 # CI-Main
 [![CI](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/main.yml/badge.svg)](https://github.com/TiwariNishar/M1_Application_PharmaStore_Management_System/actions/workflows/main.yml)
 
+# Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a92d9b61587b425f982fa589cde41401)](https://www.codacy.com/gh/TiwariNishar/M1_Application_PharmaStore_Management_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TiwariNishar/M1_Application_PharmaStore_Management_System&amp;utm_campaign=Badge_Grade)
+
+# Code Quality
+[![Code Quality Score](https://api.codiga.io/project/29921/score/svg)
+
+# Code Grade
+[![Code Grade](https://api.codiga.io/project/29921/status/svg)
+
 
 
 ## Folder structure:

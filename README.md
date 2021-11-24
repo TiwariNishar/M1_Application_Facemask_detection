@@ -48,8 +48,11 @@ This is the Mini Project of Pharma Store Management System is a console applicat
 |40020938|Nishar Tiwari|	Record Storage and Access|	5	|5|
 
 ## Challenges Faced and How Was It Overcome
-1.GCC erorr in windows and linux: installed the gcc msys64 mingw64 properly.
 
-2.Generation of makefile: To overcome this problem research on makefiles was done.
+**1.Generation of makefile**:To overcome this problem research on makefiles was done.
 
-3.Unity testing: Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
+**2.Unity testing:** Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
+
+**3.Workflow:** To analyse files were executed properly.
+  
+**4.Code testing:** Used trial and error method simultaneously to analyse and process it properly.
